@@ -1,5 +1,6 @@
+/*
 let js = "Amazing";
-console.log(40 + 8 + 23 - 10);
+// console.log(40 + 8 + 23 - 10);
 
 console.log("Jonas");
 console.log(23);
@@ -17,14 +18,25 @@ let myFirstJob = "Programmer";
 let myCurrentJob = "Teacher";
 
 console.log(myFirstJob);
+*/
 
-// LECTURE: Values and Variables
-let country = "The Netherlands";
-let continent = "Europe";
-let population = 17280397;
+let javascriptIsFun = true;
+console.log(javascriptIsFun);
 
-console.log(country);
-console.log(continent);
-console.log(population);
+//console.log(typeof true);
+console.log(typeof javascriptIsFun);
+//console.log(typeof 23);
+//console.log(typeof "Jonas");
 
-//
+javascriptIsFun = "Yess";
+console.log(typeof javascriptIsFun);
+
+let year;
+console.log(year);
+console.log(typeof year);
+
+year = 1991;
+console.log(year);
+console.log(typeof year);
+
+console.log(typeof null);
