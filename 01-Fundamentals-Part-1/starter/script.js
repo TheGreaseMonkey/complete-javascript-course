@@ -17,3 +17,14 @@ let myFirstJob = "Programmer";
 let myCurrentJob = "Teacher";
 
 console.log(myFirstJob);
+
+// LECTURE: Values and Variables
+let country = "The Netherlands";
+let continent = "Europe";
+let population = 17280397;
+
+console.log(country);
+console.log(continent);
+console.log(population);
+
+//
