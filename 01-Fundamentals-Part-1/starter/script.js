@@ -105,3 +105,33 @@ console.log(x, y);
 const averageAge = (ageJonas + ageSarah) / 2;
 console.log(ageJonas, ageSarah, averageAge);
 */
+
+/*
+// TEST DATA 1
+let markHeight = 1.69;
+let markWeight = 78;
+
+let johnHeight = 1.95;
+let johnWeight = 92;
+
+let bmiMark = markWeight / (markHeight * markHeight);
+let bmiJohn = johnWeight / (johnHeight * johnHeight);
+
+let markHigherBmi = bmiMark > bmiJohn;
+
+console.log(bmiMark, bmiJohn, markHigherBmi);
+
+// TEST DATA 2
+markHeight = 1.88;
+markWeight = 95;
+
+johnHeight = 1.76;
+johnWeight = 85;
+
+bmiMark = markWeight / (markHeight * markHeight);
+bmiJohn = johnWeight / (johnHeight * johnHeight);
+
+markHigherBmi = bmiMark > bmiJohn;
+
+console.log(bmiMark, bmiJohn, markHigherBmi);
+*/
