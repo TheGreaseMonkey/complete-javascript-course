@@ -135,3 +135,26 @@ markHigherBmi = bmiMark > bmiJohn;
 
 console.log(bmiMark, bmiJohn, markHigherBmi);
 */
+
+/*
+const firstName = "Jonas";
+const job = "Teacher";
+const birthYear = 1991;
+const currentYear = 2037;
+
+const jonas =
+  "I'm " + firstName + ", a " + (currentYear - birthYear) + " year old " + job;
+console.log(jonas);
+
+const jonasNew = `I'm ${firstName}, a ${
+  currentYear - birthYear
+} year old ${job}.`;
+console.log(jonasNew);
+
+console.log(`Just a regular string`);
+
+console.log(`String
+With
+Multiple
+Lines`);
+*/
